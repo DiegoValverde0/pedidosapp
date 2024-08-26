@@ -1,0 +1,70 @@
+D:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+D:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+D:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+D:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+D:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+D:\DesarrolloDeSistema\PedidosApp\bin\Debug\PedidosApp.exe.config
+D:\DesarrolloDeSistema\PedidosApp\bin\Debug\PedidosApp.exe
+D:\DesarrolloDeSistema\PedidosApp\bin\Debug\PedidosApp.pdb
+D:\DesarrolloDeSistema\PedidosApp\bin\Debug\CapaNegocio.dll
+D:\DesarrolloDeSistema\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+D:\DesarrolloDeSistema\PedidosApp\bin\Debug\CapaNegocio.pdb
+D:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.Up2Date
+D:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.exe
+D:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.pdb
+D:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.Forms.Dashboard.resources
+E:\DesarrolloDeSistema\PedidosApp\bin\Debug\PedidosApp.exe.config
+E:\DesarrolloDeSistema\PedidosApp\bin\Debug\PedidosApp.exe
+E:\DesarrolloDeSistema\PedidosApp\bin\Debug\PedidosApp.pdb
+E:\DesarrolloDeSistema\PedidosApp\bin\Debug\CapaNegocio.dll
+E:\DesarrolloDeSistema\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+E:\DesarrolloDeSistema\PedidosApp\bin\Debug\CapaDatos.dll
+E:\DesarrolloDeSistema\PedidosApp\bin\Debug\CapaNegocio.pdb
+E:\DesarrolloDeSistema\PedidosApp\bin\Debug\CapaDatos.pdb
+E:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+E:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.SuggestedBindingRedirects.cache
+E:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.Forms.Dashboard.resources
+E:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+E:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+E:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+E:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+E:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.CopyComplete
+E:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.exe
+E:\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.pdb
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\bin\Debug\PedidosApp.exe.config
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\bin\Debug\PedidosApp.exe
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\bin\Debug\PedidosApp.pdb
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\bin\Debug\CapaNegocio.dll
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\bin\Debug\CapaDatos.dll
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\bin\Debug\CapaNegocio.pdb
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\bin\Debug\CapaDatos.pdb
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.FrmArticulo.resources
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.Up2Date
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.exe
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.pdb
+D:\Nueva carpeta\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.FrmVistaCategoria_Articulo.resources
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\bin\Debug\PedidosApp.exe.config
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\bin\Debug\PedidosApp.exe
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\bin\Debug\PedidosApp.pdb
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\bin\Debug\CapaNegocio.dll
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\bin\Debug\CapaDatos.dll
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\bin\Debug\CapaNegocio.pdb
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\bin\Debug\CapaDatos.pdb
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.FrmArticulo.resources
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.FrmVistaCategoria_Articulo.resources
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.csproj.Up2Date
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.exe
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.pdb
+C:\Users\diego\upds\desarollo-app\DesarrolloDeSistema\PedidosApp\obj\Debug\PedidosApp.FrmCategoria.resources
