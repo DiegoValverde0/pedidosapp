@@ -18,6 +18,7 @@ namespace CapaNegocio
             Obj.Descripcion = descripcion;
             return Obj.Insertar(Obj);
         }
+
         //Metodo Editar que llama al metodo Editar de la clase DCategoria de la CapaDatos
         public static string Editar(int idcategaria, string nombre, string descripcion)
         {

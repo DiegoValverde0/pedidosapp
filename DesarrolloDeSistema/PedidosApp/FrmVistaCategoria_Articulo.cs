@@ -54,5 +54,6 @@ namespace PedidosApp
             form.setCategoria(par1,par2);
             Hide();
         }
+
     }
 }

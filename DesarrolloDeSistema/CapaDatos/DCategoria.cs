@@ -46,14 +46,14 @@ namespace CapaDatos
                     try
                     {
                         command.Connection = connection;
-                        command.CommandText = "spinsertar_presentacion";
+                        command.CommandText = "spinsertar_categoria";
                         command.CommandType = CommandType.StoredProcedure;
 
-                        SqlParameter ParIdpresentacion = new SqlParameter();
-                        ParIdpresentacion.ParameterName = "@idpresentacion";
-                        ParIdpresentacion.SqlDbType = SqlDbType.Int;
-                        ParIdpresentacion.Direction = ParameterDirection.Output;
-                        command.Parameters.Add(ParIdpresentacion);
+                        SqlParameter ParIdcategoria = new SqlParameter();
+                        ParIdcategoria.ParameterName = "@idcategoria";
+                        ParIdcategoria.SqlDbType = SqlDbType.Int;
+                        ParIdcategoria.Direction = ParameterDirection.Output;
+                        command.Parameters.Add(ParIdcategoria);
 
                         SqlParameter ParNombre = new SqlParameter();
                         ParNombre.ParameterName = "@nombre";
@@ -98,14 +98,14 @@ namespace CapaDatos
                     try
                     {
                         command.Connection = connection;
-                        command.CommandText = "speditar_presentacion";
+                        command.CommandText = "speditar_categoria";
                         command.CommandType = CommandType.StoredProcedure;
 
-                        SqlParameter ParIdpresentacion = new SqlParameter();
-                        ParIdpresentacion.ParameterName = "@idpresentacion";
-                        ParIdpresentacion.SqlDbType = SqlDbType.Int;
-                        ParIdpresentacion.Value = Categoria.Idcategoria;
-                        command.Parameters.Add(ParIdpresentacion);
+                        SqlParameter ParIdcategoria = new SqlParameter();
+                        ParIdcategoria.ParameterName = "@idcategoria";
+                        ParIdcategoria.SqlDbType = SqlDbType.Int;
+                        ParIdcategoria.Value = Categoria.Idcategoria;
+                        command.Parameters.Add(ParIdcategoria);
 
                         SqlParameter ParNombre = new SqlParameter();
                         ParNombre.ParameterName = "@nombre";
@@ -150,14 +150,14 @@ namespace CapaDatos
                     try
                     {
                         command.Connection = connection;
-                        command.CommandText = "speliminar_presentacion";
+                        command.CommandText = "speliminar_categoria";
                         command.CommandType = CommandType.StoredProcedure;
 
-                        SqlParameter ParIdpresentacion = new SqlParameter();
-                        ParIdpresentacion.ParameterName = "@idpresentacion";
-                        ParIdpresentacion.SqlDbType = SqlDbType.Int;
-                        ParIdpresentacion.Value = Categoria.Idcategoria;
-                        command.Parameters.Add(ParIdpresentacion);
+                        SqlParameter ParIdcategoria = new SqlParameter();
+                        ParIdcategoria.ParameterName = "@idcategoria";
+                        ParIdcategoria.SqlDbType = SqlDbType.Int;
+                        ParIdcategoria.Value = Categoria.Idcategoria;
+                        command.Parameters.Add(ParIdcategoria);
                         //Ejecutamos el comando
                         rpta = command.ExecuteNonQuery() == 1 ? "OK" : "NO SE ELIMINO EL REGISTRO";
                     }
@@ -179,7 +179,7 @@ namespace CapaDatos
         //Metodo mostrar
         public DataTable Mostrar()
         {
-            DataTable DtResultado = new DataTable("presentacion");
+            DataTable DtResultado = new DataTable("categoria");
             using (SqlConnection connection = GetConnection())
             {
                 connection.Open();
@@ -188,7 +188,7 @@ namespace CapaDatos
                     try
                     {
                         command.Connection = connection;
-                        command.CommandText = "spmostrar_presentacion";
+                        command.CommandText = "spmostrar_categoria";
                         command.CommandType = CommandType.StoredProcedure;
 
                         SqlDataAdapter SqlDat = new SqlDataAdapter(command);
@@ -212,7 +212,7 @@ namespace CapaDatos
         //Metodo para Buscar nombre
         public DataTable BuscarNombre(DCategoria Categoria)
         {
-            DataTable DtResultado = new DataTable("presentacion");
+            DataTable DtResultado = new DataTable("categoria");
             using (SqlConnection connection = GetConnection())
             {
                 connection.Open();
@@ -221,7 +221,7 @@ namespace CapaDatos
                     try
                     {
                         command.Connection = connection;
-                        command.CommandText = "spbuscar_presentacion_nombre";
+                        command.CommandText = "spbuscar_categoria_nombre";
                         command.CommandType = CommandType.StoredProcedure;
 
                         SqlParameter ParTextoBuscar = new SqlParameter();
